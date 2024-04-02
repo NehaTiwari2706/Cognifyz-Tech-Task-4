@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task 4</string>
+    <string name="go_to_second_layout">Go to Second Layout</string>
+    <string name="home_layout">Home Layout</string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="second_layout">Second Layout</string>
+</resources>
